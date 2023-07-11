@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flag{
+    border: black 1px solid;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 50px;
+
+}
+
+
+.red{
+    
+    background-color: red;
+    margin: 0 auto;
+    border-radius: 300%;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 222px;
+    margin-top: 200px ;
+}
+
+.white{
+    background-color: white;
+}
